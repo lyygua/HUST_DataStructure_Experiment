@@ -1,2 +1,0 @@
-# HUST_DataStructure_Experiment
-华科计算机19级数据结构实验
